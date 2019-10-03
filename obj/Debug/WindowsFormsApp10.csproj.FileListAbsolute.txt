@@ -1,0 +1,9 @@
+G:\Проекты C#\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe.config
+G:\Проекты C#\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.exe
+G:\Проекты C#\WindowsFormsApp10\bin\Debug\WindowsFormsApp10.pdb
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Form1.resources
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.Properties.Resources.resources
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.GenerateResource.cache
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.csproj.CoreCompileInputs.cache
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.exe
+G:\Проекты C#\WindowsFormsApp10\obj\Debug\WindowsFormsApp10.pdb
